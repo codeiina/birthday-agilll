@@ -21,7 +21,7 @@ import { motion, AnimatePresence } from 'motion/react';
 // ========================================
 // GANTI PATH LAGU DI SINI!
 // ========================================
-const SONG_PATH = "/public/assets/music/birthday-song-agil.mp3"; // <-- UBAH SESUAI FILE LAGU KAMU
+const SONG_PATH = "/assets/music/birthday-song-agil.mp3"; // <-- UBAH SESUAI FILE LAGU KAMU
 
 export function MusicPlayer() {
   const [isPlaying, setIsPlaying] = useState(false);
