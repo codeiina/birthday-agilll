@@ -7,19 +7,19 @@ import { Heart } from 'lucide-react';
 
 const photos = [
   {
-    url: '/public/photos/Foto1.jpeg',
+    url: '/photos/Foto1.jpeg',
     caption: 'Photobox bareng, skaduta & stembayo'
   },
   {
-    url: '/public/photos/foto2.jpg',
+    url: '/photos/foto2.jpg',
     caption: 'Birthday Boy :p'
   },
   {
-    url: '/public/photos/foto3.jpg',
+    url: '/photos/foto3.jpg',
     caption: 'Nonton pss, kalo yang ini uda pacaran'
   },
   {
-    url: '/public/photos/foto4.jpg',
+    url: '/photos/foto4.jpg',
     caption: 'Main Skuter di Kaliurang'
   }
 ];
